@@ -1,7 +1,7 @@
 # Hi there, I'm Mihir
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Computer Science Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies.
 - 📚 I’m currently learning everything about Ruby on Rails.
@@ -17,7 +17,12 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz)
 
 ---
-- 👨‍💻 Visit My portfolio https://mihir-portfolio-main-777.vercel.app
+👨‍💻 Visit My portfolio https://mihir-portfolio-main-777.vercel.app
+
+  <a href="https://mihir-portfolio-main-777.vercel.app" target="_blank">
+    <img align="center" alt="GIF" height="500px" width="1000px" src="https://github.com/MIHIR2006/MIHIR2006/blob/main/MY%20gif.gif" />
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
