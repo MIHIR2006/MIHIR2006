@@ -123,4 +123,18 @@
 </div>
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MIHIR2006&theme=blue_navy)](https://git.io/streak-stats)
+
+
+ <!-- ![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&rank_icon=progress&theme=blue_navy) -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&locale=en&theme=blue_navy&rank_icon=github" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIHIR2006&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook)](https://github.com/MIHIR2006/github-readme-stats)
+
+---
+
+
+
+
 
