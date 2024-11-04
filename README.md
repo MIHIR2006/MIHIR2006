@@ -132,6 +132,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIHIR2006&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook)](https://github.com/MIHIR2006/github-readme-stats)
 
+
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=mihir2006&bg_color=transparent&line=#91abf8&point=fff&area=true&area_color=#FFFFFF&title_color=fff&color=00bbff) -->
 ---
 
 
