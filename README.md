@@ -24,14 +24,20 @@
 </a>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mihir-goswami-ba8828247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir-goswami-ba8828247" height="30" width="40" /></a>
 <a href="https://instagram.com/mihir_goswami_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihir_goswami_007" height="30" width="40" /></a>
 </p>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
+
+### Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+<h2 align="left">Languages and Tools:</h3>
 <div>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
