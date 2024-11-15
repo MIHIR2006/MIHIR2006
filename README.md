@@ -17,14 +17,14 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz)
 
 ---
-👨‍💻 Visit My portfolio https://mihir-portfolio-main-777.vercel.app
+<h3>Visit My portfolio https://mihir-portfolio-main-777.vercel.app</h3>
 
   <a href="https://mihir-portfolio-main-777.vercel.app" target="_blank">
     <img align="center" alt="GIF" height="500px" width="1000px" src="https://github.com/MIHIR2006/MIHIR2006/blob/main/MY%20gif.gif" />
 </a>
 
 
-<h2 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/mihir-goswami-ba8828247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir-goswami-ba8828247" height="30" width="40" /></a>
 <a href="https://instagram.com/mihir_goswami_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihir_goswami_007" height="30" width="40" /></a>
