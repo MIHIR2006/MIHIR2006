@@ -1,5 +1,6 @@
 
 
+
 <!--
   Oh hey there, I see you're trying to copy my README. I mean, it *is* pretty amazing, right? But before you do,
   let me remind you that imitation is the sincerest form of flattery... unless it's copying my code, then it's just lazy.
@@ -18,6 +19,27 @@
 
 
 
+
+
+
+
+
+<!--
+## Template for Your Thank-You Post
+
+Since you've decided to copy some of my code or README, here's a template for the thank-you message that you can post on LinkedIn:
+
+🚨 Shoutout Time! 🚨
+
+I just wanted to take a moment to express my gratitude to the one and only [@mihir-goswami](https://www.linkedin.com/in/mihir-goswami) for providing the amazing README that inspired me to create my own. 📝
+
+🌟 This content has been nothing short of priceless and, as requested, I’m sharing this thank-you message as part of my commitment. Here’s to creating even cooler READMEs and spreading the knowledge! 🎉
+
+P.S. Coffee's on me! (Virtually, of course. ☕) 😄
+
+#Grateful #ThankYou #GitHub #OpenSource #README #CodingCommunity #SharingIsCaring
+
+-->
 
 
 
