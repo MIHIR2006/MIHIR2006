@@ -1,3 +1,35 @@
+
+
+<!--
+  Oh hey there, I see you're trying to copy my README. I mean, it *is* pretty amazing, right? But before you do,
+  let me remind you that imitation is the sincerest form of flattery... unless it's copying my code, then it's just lazy.
+
+  🚨 Warning: By copying this README, you agree to:
+    1. Share a cup of coffee with me (virtual or real, your choice).
+    2. Post a thank-you message on LinkedIn @mihir-goswami for this priceless content.
+    3. Smile at least once today. 😄
+
+  Seriously though, feel free to use parts of it, but remember: plagiarism is so last season.
+  Now go ahead and make your own cool README. You got this! 💪
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 # Hi there, I'm Mihir
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
