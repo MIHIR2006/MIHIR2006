@@ -29,7 +29,18 @@
 
 
 ## Tech Stack:
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  </a>
+</p>
+
+
+<!--
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+-->
 
 ---
 <h2 align="left">Languages and Tools:</h3>
@@ -64,6 +75,10 @@
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mihir2006&bg_color=transparent&line=81AAFF&point=fff&area=true&area_color=81AAFF&title_color=fff&color=81AAFF) 
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="75px" width="1000">
+
 ---
 
 
