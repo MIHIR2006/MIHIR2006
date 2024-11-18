@@ -51,7 +51,7 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 
 
  
-
+![](https://komarev.com/ghpvc/?username=mihir2006)
 # Hi there, I'm Mihir
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
