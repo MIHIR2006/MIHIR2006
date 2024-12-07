@@ -118,14 +118,16 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MIHIR2006&theme=blue_navy)](https://git.io/streak-stats)
 
+ | Current Streak | Github Stats  |
+ | --- | --- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=MIHIR2006&theme=blue_navy)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&locale=en&theme=blue_navy&rank_icon=github" />  
 
+ 
  <!-- ![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&rank_icon=progress&theme=blue_navy) -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&locale=en&theme=blue_navy&rank_icon=github" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIHIR2006&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook)](https://github.com/MIHIR2006/github-readme-stats)
+ | |  |
+ | --- | --- |
+ |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIHIR2006&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook)](https://github.com/MIHIR2006/github-readme-stats) | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="500" height="250">
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mihir2006&bg_color=transparent&line=81AAFF&point=fff&area=true&area_color=81AAFF&title_color=fff&color=81AAFF) 
