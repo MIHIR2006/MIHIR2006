@@ -127,7 +127,7 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
  <!-- ![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&rank_icon=progress&theme=blue_navy) -->
  | |  |
  | --- | --- |
- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIHIR2006&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook)](https://github.com/MIHIR2006/github-readme-stats) | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="500" height="250">
+ |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIHIR2006&layout=donut&theme=blue_navy&hide=hack,jupyter%20notebook)](https://github.com/MIHIR2006/github-readme-stats) | <img src="https://github.com/MIHIR2006/MIHIR2006/blob/main/New%20Stats.png" width="536 " height="300 ">
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mihir2006&bg_color=transparent&line=81AAFF&point=fff&area=true&area_color=81AAFF&title_color=fff&color=81AAFF) 
