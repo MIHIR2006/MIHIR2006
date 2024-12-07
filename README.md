@@ -52,7 +52,7 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 
  
 ![](https://komarev.com/ghpvc/?username=mihir2006)
-# Hi there, I'm Mihir
+# Hey there, I'm Mihir
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science Engineering Student  
@@ -74,7 +74,7 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 <h3>Visit My portfolio https://mihir-portfolio-main-777.vercel.app</h3>
 
   <a href="https://mihir-portfolio-main-777.vercel.app" target="_blank">
-    <img align="center" alt="GIF" height="500px" width="1000px" src="https://github.com/MIHIR2006/MIHIR2006/blob/main/MY%20gif.gif" />
+    <img align="center" alt="GIF" height="290px" width="360px" src="https://github.com/MIHIR2006/MIHIR2006/blob/main/MY%20gif.gif" />
 </a>
 
 
