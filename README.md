@@ -58,7 +58,7 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 ## I'm a Computer Science Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies.
-- 📚 I’m currently learning everything about Ruby on Rails.
+- 📚 I’m currently learning all about Web 3.0.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Chess.
 
