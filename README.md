@@ -97,7 +97,7 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 -->
 
 ---
-<h2 align="left">Languages and Tools:</h3>
+<h2 align="left">Tools & Technologies:</h3>
 
 <h2 align="left"> Frontend</h2>
 <!--	<td><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></td>	-->
