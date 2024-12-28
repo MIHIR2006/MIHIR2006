@@ -179,10 +179,23 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 ---
 
 <h2 align="left">Connect with me:</h2>
+
+<div align="left"> 
+	<table>
+		<tr>
+<td>	<a href="https://www.linkedin.com/in/mihir-goswami" target="blank">   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">  </a></td>
+<td>	<a href="https://instagram.com/mihir_goswami_007" target="blank">  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70">  </a>  </td>
+		</tr>
+	</table>
+</div>
+
+<!--
 <p align="left">
 <a href="https://www.linkedin.com/in/mihir-goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir-goswami-ba8828247" height="30" width="40" /></a>
 <a href="https://instagram.com/mihir_goswami_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihir_goswami_007" height="30" width="40" /></a>
 </p>
+
+-->
 
 ---
 
