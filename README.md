@@ -209,6 +209,11 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 
 ---
 
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=20)](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=15)
+
+
+---
+
 
  | Current Streak | Github Stats  |
  | --- | --- |
