@@ -216,19 +216,19 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 ---
 
 <div align="left">
-<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihir2006&theme=github_dark">
-<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mihir2006&theme=github_dark&utcOffset=8">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=github_dark">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=github_dark">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihir2006&theme=github_dark">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihir2006&theme=tokyonight">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mihir2006&theme=tokyonight&utcOffset=8">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=tokyonight">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=tokyonight">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihir2006&theme=tokyonight">
 </div>
 <div align="left">
-<img height="166em" src="https://streak-stats.demolab.com/?user=MIHIR2006&theme=github_dark">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&rank_icon=progress&theme=github_dark">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir2006&theme=tokyonight&hide_border=true">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=mihir2006&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 </div><br>
 
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=20)](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=15)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=tokyonight&margin-w=20)](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=tokyonight&margin-w=15)
 
 
 <!--
