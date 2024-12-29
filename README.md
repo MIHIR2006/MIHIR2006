@@ -209,15 +209,34 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 
 ---
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=20)](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=15)
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"> <span><i>Github Analytics</i></span></h2>
+
 
 
 ---
+
+<div align="left">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihir2006&theme=github_dark">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mihir2006&theme=github_dark&utcOffset=8">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=github_dark">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=github_dark">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihir2006&theme=github_dark">
+</div><br>
+
+
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=20)](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=15)
+
 
 
  | Current Streak | Github Stats  |
  | --- | --- |
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=MIHIR2006&theme=blue_navy)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&locale=en&theme=blue_navy&rank_icon=github" /> 
+
+
+
+
+
 
 
 <!--
@@ -237,8 +256,12 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 
 -->
 
+
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mihir2006&bg_color=transparent&line=81AAFF&point=fff&area=true&area_color=81AAFF&title_color=fff&color=81AAFF) 
 ---
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
