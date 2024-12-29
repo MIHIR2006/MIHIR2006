@@ -264,7 +264,7 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=mihir2006&bg_color=transparent&line=81AAFF&point=fff&area=true&area_color=81AAFF&title_color=fff&color=81AAFF) 
+![](https://github-readme-activity-graph.vercel.app/graph?username=mihir2006&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE) 
 ---
 
 
