@@ -221,17 +221,23 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=github_dark">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=github_dark">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihir2006&theme=github_dark">
+</div>
+<div align="left">
+<img height="166em" src="https://streak-stats.demolab.com/?user=MIHIR2006&theme=github_dark">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&rank_icon=progress&theme=github_dark">
 </div><br>
-
 
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=20)](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=onestar&margin-w=15)
 
 
+<!--
 
  | Current Streak | Github Stats  |
  | --- | --- |
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=MIHIR2006&theme=blue_navy)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=MIHIR2006&show_icons=true&locale=en&theme=blue_navy&rank_icon=github" /> 
+
+-->
 
 
 
