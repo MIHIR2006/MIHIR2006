@@ -219,7 +219,7 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihir2006&theme=tokyonight">
 <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mihir2006&theme=tokyonight&utcOffset=8">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=tokyonight">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihir2006&theme=tokyonight">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihir2006&theme=tokyonight">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihir2006&theme=tokyonight">
 </div>
 <div align="left">
