@@ -61,6 +61,7 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 - 📚 I’m currently learning all about Web 3.0.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Chess.
+- 📦 Ask me about SAAS.
 
 ---
 
