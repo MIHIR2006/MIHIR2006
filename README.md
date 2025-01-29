@@ -225,9 +225,16 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 </div>
 <div align="left">
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir2006&theme=tokyonight&hide_border=true">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=mihir2006&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+<img height="166em" src="https://awesome-github-stats.azurewebsites.net/user-stats/mihir2006?cardType=level&theme=tokyonight&preferLogin=false&Border=1B1B27">
 </div><br>
 
+<!--
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=mihir2006&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mihir2006?cardType=level&theme=tokyonight&preferLogin=false&Border=1B1B27)](https://git.io/awesome-stats-card)
+
+-->
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=tokyonight&margin-w=20)](https://github-profile-trophy.vercel.app/?username=mihir2006&theme=tokyonight&margin-w=15)
 
