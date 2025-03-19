@@ -193,6 +193,9 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 	</table>
 </div>
 
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/mihir_goswami"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mihir_goswami" /></a></p><br><br>
+
 <!--
 <p align="left">
 <a href="https://www.linkedin.com/in/mihir-goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir-goswami-ba8828247" height="30" width="40" /></a>
