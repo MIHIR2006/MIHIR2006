@@ -72,9 +72,9 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz)
 
 ---
-<h3>Visit My portfolio https://mihir-portfolio-main-777.vercel.app</h3>
+<h3>Visit My portfolio http://mihir-goswami-portfolio.vercel.app </h3>
 
-  <a href="https://mihir-portfolio-main-777.vercel.app" target="_blank">
+  <a href="http://mihir-goswami-portfolio.vercel.app" target="_blank">
     <img align="center" alt="GIF" height="290px" width="360px" src="https://github.com/MIHIR2006/MIHIR2006/blob/main/MY%20gif.gif" />
 </a>
 
