@@ -7,45 +7,12 @@
 
   🚨 Warning: By copying this README, you agree to:
     1. Share a cup of coffee with me (virtual or real, your choice).
-    2. Post a thank-you message on LinkedIn @mihir-goswami for this priceless content.
+    2. Post a thank you message on @MIHIR___0007 on X || @mihir-goswami on LinkedIn for this priceless content.
     3. Smile at least once today. 😄
 
-  Seriously though, feel free to use parts of it, but remember: plagiarism is so last season.
-  Now go ahead and make your own cool README. You got this! 💪
+  Seriously though, feel free to use parts of it.
+  Now go ahead and make your own cool README. You got this :) 
 -->
-
-
-
-
-
-
-
-
-
-
-
-<!--
-## Template for Your Thank-You Post
-
-Since you've decided to copy some of my code or README, here's a template for the thank-you message that you can post on LinkedIn:
-
-🚨 Shoutout Time! 🚨
-
-I just wanted to take a moment to express my gratitude to the one and only [@mihir-goswami](https://www.linkedin.com/in/mihir-goswami) for providing the amazing README that inspired me to create my own. 📝
-
-🌟 This content has been nothing short of priceless and, as requested, I’m sharing this thank-you message as part of my commitment. Here’s to creating even cooler READMEs and spreading the knowledge! 🎉
-
-P.S. Coffee's on me! (Virtually, of course. ☕) 😄
-
-#Grateful #ThankYou #GitHub #OpenSource #README #CodingCommunity #SharingIsCaring
-
--->
-
-
-
-
-
-
 
 
 
@@ -278,6 +245,11 @@ P.S. Coffee's on me! (Virtually, of course. ☕) 😄
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mihir2006&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE) 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mihir2006/Mihir2006/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mihir2006/Mihir2006/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mihir2006/Mihir2006/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
