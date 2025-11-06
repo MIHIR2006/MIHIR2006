@@ -1,6 +1,5 @@
 
 
-
 <!--
   Oh hey there, I see you're trying to copy my README. I mean, it *is* pretty amazing, right? But before you do,
   let me remind you that imitation is the sincerest form of flattery... unless it's copying my code, then it's just lazy.
@@ -19,6 +18,9 @@
 
  
 ![](https://komarev.com/ghpvc/?username=mihir2006)
+
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/6086ca6e-837f-400a-84e8-bb145dffdfc2" />
+
 # Hey there, I'm Mihir
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
