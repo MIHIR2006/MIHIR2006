@@ -19,7 +19,9 @@
  
 ![](https://komarev.com/ghpvc/?username=mihir2006)
 
-<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/6086ca6e-837f-400a-84e8-bb145dffdfc2" />
+<a href="https://mihirgoswami.is-a.dev">
+	<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/6086ca6e-837f-400a-84e8-bb145dffdfc2" />
+</a>
 
 # Hey there, I'm Mihir
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -40,13 +42,14 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz)
 
----
-<h3>Visit My portfolio http://mihir-goswami-portfolio.vercel.app </h3>
 
+<h3>Visit My portfolio : https://mihirgoswami.is-a.dev </h3>
+
+<!--
   <a href="http://mihir-goswami-portfolio.vercel.app" target="_blank">
     <img align="center" alt="GIF" height="290px" width="360px" src="https://github.com/MIHIR2006/MIHIR2006/blob/main/MY%20gif.gif" />
 </a>
-
+-->
 
 ---
 
